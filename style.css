@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    color: #444749;
+}
+
+
+
+h3 {
+    text-align: center;
+    color: slategray;
+}
+
+
+p{
+    text-align: center;
+    color: #464953;
+    line-height: 2rem;
+}
+img {
+    width: 50%;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
